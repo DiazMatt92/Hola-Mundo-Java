@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hola Mundi mundi");
+		System.out.println("Hello Mundi mundi");
 	}
 
 }
